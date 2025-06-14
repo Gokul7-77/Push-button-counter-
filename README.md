@@ -1,1 +1,12 @@
 # Push-button-counter-
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: KARRI GOKUL YADAV 
+
+INTERN ID: CT04DF2018
+
+DOMAIN: Embedded Systems
+
+DURATION: 4 WEEKS
+
+MENTOR: Neela Santhosh Kumar
